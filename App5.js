@@ -5,4 +5,8 @@ let rl = readline.createInterface(
     process.stdout
 )
 
-rl.question
+rl.question('Ingrese el texto:', (textoSubcadena)=>{
+    const cadena= textoSubcadena.substring(0, 10);
+    console.log(`Su texto convertido a subcadena es: ${cadena}`)
+    process.exit()
+})
