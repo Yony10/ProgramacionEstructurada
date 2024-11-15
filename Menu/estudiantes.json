@@ -1,0 +1,19 @@
+[
+  {
+    "id": 2,
+    "nombre": "Alexander",
+    "edad": 18,
+    "carrera": "Ing. Civil"
+  },
+  {
+    "id": 3,
+    "nombre": "Juan",
+    "edad": 19,
+    "carrera": "Ing. Desarrollo de Software"
+  },
+  {
+    "nombre": "Carlos",
+    "edad": 19,
+    "carrera": "Ing. Industrial"
+  }
+]
